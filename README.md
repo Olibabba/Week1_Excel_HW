@@ -13,9 +13,10 @@ Now, to give my client some expectations of the path ahead and to strategize for
 
 
 --Code
-'''
+
+```
 =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999",Kickstarter!$R:$R,"plays")
-'''
+```
 
 ### Analysis of Outcomes Based on Launch Date
 
