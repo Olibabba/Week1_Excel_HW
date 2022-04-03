@@ -6,16 +6,10 @@ In a previous analysis I looked at the success of kickstarters in the US, and of
 
 ### Purpose
 
-Now, to give my client some expectations of the path ahead and to strategize for success, I will continue my analysis. I will look at the outcomes of other kickstarters based on launch date and based on initial goals.
+Now, to give my client some expectations of the path ahead and to strategize for success, I will continue my analysis. This analysis will look at the outcomes of other kickstarters based on launch date and based on initial goals.
 
 
 ## Analysis and Challenges
-
-
---Code
-'''
-=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999",Kickstarter!$R:$R,"plays")
-'''
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -26,6 +20,13 @@ Now, to give my client some expectations of the path ahead and to strategize for
 ![Outcomes Based on Goals](https://github.com/Olibabba/Week1_Excel_HW/blob/homework_prep/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+
+--Code challenges
+'''
+=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999",Kickstarter!$R:$R,"plays")
+'''
+
+--Graph challenges
 
 ## Results
 
