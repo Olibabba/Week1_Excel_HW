@@ -30,7 +30,7 @@ I came acrosss a few challenges and difficulties in this process. In particular 
 
 The outcomes based on goals graph gave me some trouble. First it didn't lok like the example given in the module, and I jus couldn't pinpoint why that was. Then I realized that the table sorted "less than 1000" to the last row, which put that entry at the end of the graph. It took some more time to figure out that I could manually reorder table items. 
 
-![Out of Order Table]()
+![Out of Order Table](https://github.com/Olibabba/Week1_Excel_HW/blob/homework_prep/Resources/Screen%20Shot%202022-04-02%20at%207.27.12%20PM.png)
 
 Then I had some frustration trying to remove the markers on the same graph. This was probably not a make or break issue. But the example given in the module had smooth lines without markers, and doggon it mine was going to look the same. After some trial and error I finally found the correct setting.
 
@@ -54,7 +54,16 @@ I also got stuck trying to save myself some work retyping the formula over and o
 
 - What can you conclude about the Outcomes based on Goals?
 
+It is clear that the chance of success is much higher with a lower fundraising goal, and campaigns with a goal of less than $5000 have over 70% chance of succeeding.
 
 - What are some limitations of this dataset?
 
+This dataset only includes campaigns betweeen 2009 and 2017. So we are missing 5 years of the most recent data. This missing data could really impact our results, particularly when considering the impact Covid might have had on kickstarter campaigns. 
+
+This analysis also cannot take into consideration the work put into promoting a fundraiser. Things like how often how often a campaign was updated, what sort of rewards were offered to backers, social media presence, or even in person promotion are all not factored into a campaigns success or failure here.
+
 - What are some other possible tables and/or graphs that we could create?
+
+It may be fruitful to take a clsoer look at the success of kickstarters which are staff picks, and how this effects a campaign's success and, number of backers, and average donation.
+
+It may also be worthwhile take a deeper dive into the metrics already explored, but to look at the actual percentage funded to find how close to success some campaigns were, and to find any campaigns that raised more then the goal.
