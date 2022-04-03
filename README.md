@@ -28,7 +28,7 @@ I came acrosss a few challenges and difficulties in this process. In particular 
 
 #### Graph Challenges
 
-The outcomes based on goals graph gave me some trouble. First it didn't lok like the example given in the module, and I jus couldn't pinpoint why that was. Then I realized that the table sorted "less than 1000" to the last row, which put that entry at the end of the graph. It took some more time to figure out that I could manually reorder table items. 
+The outcomes based on goals graph gave me some trouble. First it didn't lok like the example given in the module, and I just couldn't pinpoint why that was. Then I realized that the table sorted "less than 1000" to the last row, which put that entry at the end of the graph. It took some more time to figure out that I could manually reorder table items. 
 
 ![Out of Order Table](https://github.com/Olibabba/Week1_Excel_HW/blob/homework_prep/Resources/Screen%20Shot%202022-04-02%20at%207.27.12%20PM.png)
 
