@@ -28,7 +28,7 @@ I came acrosss a few challenges and difficulties in this process. In particular 
 
 #### Graph Challenges
 
-The outcomes based on goals graph gave me some trouble. First it didn't lok like the example given in the module, and I just couldn't pinpoint why that was. Then I realized that the table sorted "less than 1000" to the last row, which put that entry at the end of the graph. It took some more time to figure out that I could manually reorder table items. 
+The outcomes based on goals graph gave me some trouble. First it didn't look like the example given in the module, and I just couldn't pinpoint why that was. Then I realized that the table sorted "less than 1000" to the last row, which put that entry at the end of the graph. It took some more time to figure out that I could manually reorder table items. 
 
 ![Out of Order Table](https://github.com/Olibabba/Week1_Excel_HW/blob/homework_prep/Resources/Screen%20Shot%202022-04-02%20at%207.27.12%20PM.png)
 
@@ -40,7 +40,7 @@ Putting together the table for outcomes based on goals was a challenge.
 
 In order to arrive at the final formula to calculate the number of successful, failed, and cancelled plays, based on various fundraising goals, I ran into a few hang ups.
 
-The final formula, example shown below, has the goal range broken into two seperate conditionals. But this solution was not initially apparent to me, and it took some trial and error and some time on Google to arrive here.
+The final formula, example shown below, has the goal range broken into two seperate conditionals. But this solution was not initially apparent to me, and it took some trial and error, and some time on Google to arrive here.
 ```
 =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999",Kickstarter!$R:$R,"plays")
 ```
