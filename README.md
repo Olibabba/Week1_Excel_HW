@@ -64,6 +64,6 @@ This analysis also cannot take into consideration the work put into promoting a 
 
 - What are some other possible tables and/or graphs that we could create?
 
-It may be fruitful to take a clsoer look at the success of kickstarters which are staff picks, and how this effects a campaign's success and, number of backers, and average donation.
+It may be fruitful to take a closer look at the success of kickstarters which are staff picks, and how this effects a campaign's success and, number of backers, and average donation.
 
 It may also be worthwhile take a deeper dive into the metrics already explored, but to look at the actual percentage funded to find how close to success some campaigns were, and to find any campaigns that raised more then the goal.
